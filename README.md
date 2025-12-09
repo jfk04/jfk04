@@ -7,7 +7,7 @@ I enjoy working on projects that solve real problems, are cleanly structured, an
 
 ## 🛠 Tech Stack
 **Languages:**  
-C# · Python · SQL · JavaScript (Basics)
+C# · Python · SQL · HTML/CSS/JavaScript (Basics)
 
 **Frameworks & Tools:**  
 WinForms · Tkinter (ttk) · .NET · REST APIs · Git/GitHub
