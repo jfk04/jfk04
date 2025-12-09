@@ -13,9 +13,12 @@ C# · Python · SQL · JavaScript (Basics)
 WinForms · Tkinter (ttk) · .NET · REST APIs · Git/GitHub
 
 **Areas of interest:**  
-Automation · Data Processing · Machine Learning · Tooling · Desktop Apps · Game-related AI
+Automation · Data Processing · Machine Learning · Mobile Apps · Desktop Apps · Game-related AI
 
-
+**Some Fun Facts about me:
+- I don't like coffee
+- I've spent six months in South America
+- **Hobbies:** gaming, calisthenics, basketball, reading
 <!--
 **jfk04/jfk04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
