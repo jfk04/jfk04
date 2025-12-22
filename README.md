@@ -16,7 +16,7 @@ WinForms · Tkinter (ttk) · .NET · REST APIs · Git/GitHub
 Automation · Data Processing · Machine Learning · Mobile Apps · Desktop Apps · Game-related AI
 
 **Some Fun Facts about me:**
-- I don't like coffee
+- I hate coffee
 - I've spent six months in South America
 - **Hobbies:** gaming, calisthenics, basketball, reading
 <!--
