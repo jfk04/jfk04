@@ -1,7 +1,7 @@
 ## Hi I'm Jerry (short for Jeronimo)
 
-I am a Software Developer with a focus on building practical tools, automation workflows, and small AI-driven applications.  
-I enjoy working on projects that solve real problems, are cleanly structured, and easy to maintain.
+I am a Software Developer with a focus on building practical tools, automation workflows and mobile applications.  
+I enjoy working on projects that solve real problems, are cleanly structured and easy to maintain.
 
 ---
 
@@ -13,12 +13,7 @@ Python · Delphi · C# · SQL · HTML/CSS/JavaScript (Basics)
 WinForms · Tkinter (ttk) · .NET · REST APIs · Git/GitHub
 
 **Areas of interest:**  
-Automation · Data Processing · Machine Learning · Mobile Apps · Desktop Apps · Game-related AI
-
-**Some Fun Facts about me:**
-- I hate coffee
-- I've spent six months in South America
-- **Hobbies:** gaming, calisthenics, basketball, reading
+Automation · Data Processing · Machine Learning · Mobile Apps · Desktop Apps
 <!--
 **jfk04/jfk04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
